@@ -1,0 +1,17 @@
+elasticsearch
+sentence-transformers
+langchain
+langchain-community
+flask
+flask-cors
+pandas
+numpy
+arabic-reshaper
+python-bidi
+parsivar
+transformers
+pillow
+torch
+torchvision
+torchaudio
+Ollama
